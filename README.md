@@ -1,2 +1,2 @@
 # data-analysis
-Collection of data analyses as Jupyter notebooks
+Collection of data analyses on various databases as Jupyter notebooks
